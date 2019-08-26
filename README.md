@@ -31,4 +31,4 @@ Download following libraries
 6. fuzzywuzzy
 7. docx2txt
 
-Run test.py for execution of the script.
+Note: Run test.py for execution of the script.
