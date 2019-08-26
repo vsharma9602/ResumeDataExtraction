@@ -17,3 +17,18 @@ Fields Extracted:
 13. State
 14. City
 15. Pincode
+
+
+Dependencies:
+
+Download following libraries
+
+1. nltk
+2. spacy
+3. pandas
+4. pdfminer.six
+5. tabula-py
+6. fuzzywuzzy
+7. docx2txt
+
+Run test.py for execution of the script.
